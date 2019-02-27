@@ -1,0 +1,85 @@
+BABELFY 
+PARTIAL MATCHING
+score	bID1	bID2	predicted_entities	query
+1 	 bn:00030624n 	 bn:00088643v 	 {'bn:00030624n': 'employers'} 	 What can employers do?
+1 	 bn:00031027n 	 bn:00082281v 	 {'bn:00031027n': 'entity'} 	 What can Any entity do?
+1 	 bn:00096545a 	 bn:00048504n 	 {'bn:00048504n': 'provision', 'bn:00096545a': 'adverse', 'bn:02266432n': 'comments', 'bn:00045936n': 'inferences', 'bn:00048488n': 'judge', 'bn:00048658n': 'jury', 'bn:00085647v': 'regarding', 'bn:00066862n': 'refusal', 'bn:00025884n': 'defendant', 'bn:00082646v': 'answer', 'bn:00043267n': 'questions', 'bn:00016403n': 'trial', 'bn:00089278v': 'hearing', 'bn:00105848a': 'legal', 'bn:00088913v': 'proceeding'} 	 What can do made the provision that adverse comments or inferences can not be made by the judge or jury regarding the refusal by a defendant to answer questions before or during a trial , hearing or any other legal proceeding?
+1 	 bn:14325995n 	 bn:00082412v 	 {'bn:14325995n': 'ingapore+national+youth+football+team', 'bn:00087410v': 'nicknamed', 'bn:00024245n': 'Cubs'} 	 What can The Singapore national youth football team , nicknamed the Cubs , do?
+1 	 bn:00046516n 	 bn:00084231v 	 {'bn:00084231v': 'find', 'bn:00018756n': 'tasks'} 	 What can do find many other tasks to do?
+0 	 bn:03527901n 	 : 	 {'bn:00020726n': 'color'} 	 What color is Ruché?
+0 	 bn:00500353n 	 n: 	 {'bn:00020744n': 'olor+of'} 	 What is the color of Pais?
+0 	 bn:03044451n 	 n: 	 {'bn:00020744n': 'olor+of'} 	 What is the color of KELT-2A?
+1 	 bn:00035378n 	 bn:00100914a 	 {'bn:00020726n': 'color', 'bn:00035378n': 'flowers'} 	 what color can flowers have?
+0 	 bn:00944135n 	 bn:00098581a 	 {'bn:00020726n': 'color', 'bn:00016214n': 'slippers'} 	 what color can papal slippers have?
+1 	 bn:02022749n 	 bn:03170677n 	 {'bn:02022749n': 'ity+Mall'} 	 What is City Mall?
+1 	 bn:00734762n 	 bn:00060680n 	 {'bn:00734762n': 'lessed+Sacrament+Catholic+Church'} 	 What is Blessed Sacrament Catholic Church?
+1 	 bn:00063196n 	 bn:00046516n 	 {'bn:00016733n': 'class', 'bn:00063196n': 'poet'} 	 What is the class of a poet ?
+1 	 bn:00062749n 	 bn:00098101a 	 {'bn:00062749n': 'lain+weave'} 	 What is Plain weave?
+0 	 bn:03186661n 	 bn:01446778n 	 {'bn:00147827n': 'Dani'} 	 What is Nico and Dani?
+1 	 bn:00019104n 	 bn:00303018n 	 {'bn:00019104n': 'cimetidine', 'bn:13783090v': 'used'} 	 Where is cimetidine used?
+1 	 bn:00933064n 	 bn:00070193n 	 {'bn:00933064n': 'ecessary+and+sufficient+condition', 'bn:13783090v': 'used'} 	 What is necessary and sufficient condition used for?
+1 	 bn:00046041n 	 bn:01059707n 	 {'bn:00046041n': 'mmune+response', 'bn:13783090v': 'used'} 	 What is immune response used for?
+0 	 bn:00076587n 	 bn:00084801v 	 {'bn:00084800v': 'characterize', 'bn:00103510a': 'general', 'bn:00108566a': 'physical', 'bn:00018120n': 'hemical+properties', 'bn:00018105n': 'hemical+elements'} 	 What can you use to characterize the general physical and chemical properties of the chemical elements?
+1 	 bn:00003735n 	 bn:00045726n 	 {'bn:00003735n': 'cashew'} 	 How can I use cashew?
+1 	 bn:03647513n 	 bn:00016049n 	 {'bn:03647513n': 'HESCO+bastion'} 	 What is HESCO bastion made of?
+1 	 bn:03646488n 	 bn:03731671n 	 {'bn:00082715v': 'constitutes', 'bn:03646488n': 'Abciximab'} 	 What constitutes Abciximab?
+1 	 bn:00145833n 	 bn:00035580n 	 {'bn:00145833n': 'ecurity+thread'} 	 What is security thread made of?
+0 	 bn:03003925n 	 bn:00081492n 	 {'bn:00982623n': 'Houde'} 	 What is Houde Bimax made of?
+1 	 bn:02653401n 	 bn:00054550n 	 {'bn:02653401n': 'erb+grinder'} 	 What is herb grinder made of?
+1 	 bn:03832125n 	 bn:00414325n 	 {'bn:03832125n': 'chool+of+Physics+and+Astronomy'} 	 What is a part of School of Physics and Astronomy?
+0 	 bn:03771908n 	 bn:00672000n 	 {} 	 What was a part of Dundee?
+0 	 bn:00021127n 	 bn:00047836n 	 {'bn:00640410n': 'EC'} 	 What was a part of EC?
+0 	 bn:03194869n 	 bn:00036363n 	 {'bn:00859659n': 'cean+Highway'} 	 What is a part of Ocean Highway?
+0 	 bn:00019742n 	 bn:02179900n 	 {} 	 What is a part of Cleveland?
+1 	 bn:02862286n 	 bn:03684904n 	 {'bn:02862286n': 'laster+City'} 	 Where is Plaster City?
+0 	 bn:01647231n 	 bn:03190735n 	 {'bn:00084231v': 'found'} 	 Where can Glenns be found ? 
+0 	 bn:03880046n 	 bn:00626535n 	 {} 	 Where is Badachro?
+0 	 bn:00087714v 	 bn:00057100n 	 {'bn:00050521n': 'Erect', 'bn:00090423v': 'located'} 	 Where is Erect located ?
+1 	 bn:00913907n 	 bn:00058810n 	 {'bn:00913907n': 'Handley+Wildlife+Management+Area', 'bn:00106113a': 'located'} 	 Where is Handley Wildlife Management Area located ?
+1 	 bn:00025721n 	 bn:00091708v 	 {'bn:00025721n': 'ack+of+cards'} 	 What is the use of a pack of cards ?
+1 	 bn:00060963n 	 bn:00082811v 	 {'bn:00060963n': 'PAT', 'bn:13783090v': 'used'} 	 What can PAT be used for ?
+1 	 bn:00076373n 	 bn:00082493v 	 {'bn:00076373n': 'Television', 'bn:13783090v': 'used'} 	 What is Television used for ?
+1 	 bn:00041278n 	 bn:00035361n 	 {'bn:00041278n': 'grain', 'bn:13783090v': 'used'} 	 What is a grain used for ?
+1 	 bn:00053891n 	 bn:00083900v 	 {'bn:00053891n': 'Sledgehammers', 'bn:13783090v': 'used'} 	 What can Sledgehammers be used for ?
+0 	 bn:00028280n 	 bn:00103058a 	 {'bn:00021751n': 'shape', 'bn:00028281n': 'Doric', 'bn:00062383n': 'pilasters'} 	 What is the shape of Doric pilasters ?
+1 	 bn:01800355n 	 bn:00100307a 	 {'bn:00111262a': 'straight', 'bn:01800355n': 'ational+League+East', 'bn:00017614n': 'title'} 	 Is straight National League East title ?
+0 	 bn:00047612n 	 bn:00101679a 	 {'bn:02708762n': 'shape', 'bn:03817349n': 'island'} 	 what is the shape of the island ?
+0 	 bn:00106764a 	 bn:00096572a 	 {'bn:00021751n': 'shape', 'bn:00018345n': 'Minor', 'bn:00003125n': 'changes'} 	 What is the shape of Minor changes ?
+1 	 bn:00369010n 	 bn:00092088v 	 {'bn:00035908n': 'shape', 'bn:00369010n': 'Adelaide+Gaol'} 	 What is the shape of Adelaide Gaol ?
+1 	 bn:02439312n 	 bn:02304738n 	 {'bn:02439312n': 'Oneness+theology', 'bn:00110647a': 'similar'} 	 What is Oneness theology similar to?
+1 	 bn:00008005n 	 bn:00066209n 	 {'bn:00008005n': 'Cloudberry', 'bn:00092876v': 'resemble'} 	 What does Cloudberry  resemble to?
+0 	 bn:00281984n 	 bn:00281984n 	 {'bn:00110647a': 'similar'} 	 what is similar to Steinway-Haus ?
+1 	 bn:00078809n 	 bn:00064446n 	 {'bn:00078809n': 'typewriter', 'bn:00090462v': 'ook+like'} 	 What does typewriter look like?
+1 	 bn:00606418n 	 bn:01126169n 	 {'bn:00606418n': 'bstorf+Map', 'bn:00090462v': 'ook+like'} 	 What does Ebstorf Map look like?
+0 	 bn:00020222n 	 bn:00110561a 	 {'bn:13755789v': 'give+me', 'bn:00032099n': 'example', 'bn:00106062a': 'short'} 	 Can you give me an example of short thing ?
+1 	 bn:00026981n 	 bn:00111630a 	 {'bn:13755789v': 'give+me', 'bn:00111630a': 'tall'} 	 Can you give me an example of tall thing ?
+1 	 bn:00884299n 	 bn:00102113a 	 {'bn:00071887n': 'size', 'bn:00884299n': 'Seru', 'bn:00048522n': 'Juggernaut'} 	 What is the size of Seru Juggernaut ?
+1 	 bn:03656216n 	 bn:00106463a 	 {'bn:00071887n': 'size', 'bn:03656216n': 'hio+Stadium'} 	 What is the size of Ohio Stadium ?
+0 	 bn:00061966n 	 bn:00110561a 	 {'bn:00071887n': 'size', 'bn:00034448n': 'Filipino', 'bn:15205441n': 'poem'} 	 What is the size of Filipino poem ?
+1 	 bn:00048468n 	 bn:00035378n 	 {'bn:00093929v': 'smell', 'bn:00048468n': 'Joy'} 	 What does smell like Joy?
+0 	 bn:03245273n 	 bn:01382727n 	 {'bn:00093929v': 'smell'} 	 what does Jane smell like?
+1 	 bn:00016265n 	 bn:00016264n 	 {'bn:00093929v': 'smell', 'bn:00016265n': 'arrion+flowers'} 	 What does smell like Carrion flowers?
+0 	 bn:01726714n 	 bn:00008522n 	 {'bn:00093929v': 'smell', 'bn:00015143n': 'Canal'} 	 What does smell like Canal Livre?
+0 	 bn:00000870n 	 bn:00072496n 	 {'bn:00093929v': 'smell', 'bn:00075023n': 'Success'} 	 What does smell like Success?
+1 	 bn:00008924n 	 bn:00110860a 	 {'bn:00000986n': 'sound', 'bn:00008924n': 'ass+tuba'} 	 How is the sound of Bass tuba like ?
+1 	 bn:00034453n 	 bn:00008141n 	 {'bn:00034453n': 'girl', 'bn:00093757v': 'sing'} 	 What does Avery 's girl sing?
+1 	 bn:00034250n 	 bn:00095748v 	 {'bn:00072892n': 'sound', 'bn:00034250n': 'Violin', 'bn:00087565v': 'emit'} 	 What sound can Violin emit ?
+1 	 bn:00081546n 	 bn:00093757v 	 {'bn:00081546n': 'words', 'bn:00093757v': 'sing'} 	 What does The words sing?
+1 	 bn:00053981n 	 bn:17106409n 	 {'bn:00053981n': 'McIntosh', 'bn:00093757v': 'sing'} 	 What does McIntosh sing?
+1 	 bn:00062706n 	 bn:00030844n 	 {'bn:00062706n': 'seat'} 	 What is an example of a seat ?
+1 	 bn:03812752n 	 bn:00020034n 	 {'bn:03812752n': 'Washington+County,+Pennsylvania'} 	 What is a Washington County, Pennsylvania?
+0 	 bn:00080191n 	 bn:00060915n 	 {'bn:00035907n': 'kind', 'bn:00058445n': 'object', 'bn:00087701v': 'seen'} 	 What kind of object is seen as?
+1 	 bn:00026353n 	 bn:00026353n 	 {'bn:00032893n': 'family', 'bn:00026353n': 'ubordinate+clause', 'bn:00083391v': 'elong+to'} 	 What family do subordinate clause belong to?
+1 	 bn:10945696n 	 bn:03047678n 	 {'bn:00016401n': 'instance', 'bn:10945696n': 'ports+organization'} 	 What is an instance of a sports organization ?
+1 	 bn:02013069n 	 bn:00024294n 	 {'bn:00042275n': 'taste', 'bn:02013069n': 'silocybe+weilii'} 	 What does taste like Psilocybe weilii?
+1 	 bn:13590851n 	 bn:00098464a 	 {'bn:13590851n': 'Barium', 'bn:00042275n': 'taste'} 	 What is Barium taste like ?
+1 	 bn:00029758n 	 bn:00050511n 	 {'bn:00042275n': 'taste', 'bn:00110647a': 'similar', 'bn:00029758n': 'dible+fruit'} 	 What taste is similar to edible fruit?
+1 	 bn:00024472n 	 bn:00098464a 	 {'bn:00042275n': 'taste', 'bn:00024472n': 'Turmeric'} 	 What is the taste of Turmeric like ?
+1 	 bn:00060755n 	 bn: 	 {'bn:00060755n': 'parsley', 'bn:00035137n': 'taste'} 	 What is parsley's taste?
+0 	 bn:00034151n 	 bn:00048548n 	 {'bn:00034150n': 'festival'} 	 when is festival ?
+0 	 bn:03628329n 	 bn:03315076n 	 {'bn:00088544v': 'released'} 	 When was OS4 released?
+1 	 bn:00033860n 	 bn:01914044n 	 {'bn:00033860n': 'east+day', 'bn:00082475v': 'held'} 	 when does feast day held ?
+0 	 bn:16042269n 	 bn:00649626n 	 {'bn:00034962n': 'IRiDES', 'bn:00088544v': 'released'} 	 When was IRiDES released?
+1 	 bn:00050796n 	 bn:01233351n 	 {'bn:00050796n': 'ester+Young', 'bn:00083297v': 'die'} 	 When did Lester Young die?
+
+total score: 53 / 80 	 66.25 %

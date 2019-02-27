@@ -1,0 +1,3 @@
+[{"question": "What is Cionocoleus similar to?", "answer": "A Marathon", "relation": "SIMILARITY", "context": "enriching", "domains": "Animals", "c1": "bn:01006731n", "c2": "bn:00009129n"}
+,{"question": "What is Promnik, Masovian Voivodeship ?", "answer": "It is a village in East-central Poland", "relation": "GENERALIZATION", "context": "enriching", "domains": "Geography and places", "c1": "bn:01252035n", "c2": "bn:00063279n"}
+,{"question": "to what is VMware ThinApp similar?", "answer": "it is similar to Battle of Salamina", "relation": "SIMILARITY", "context": "enriching", "domains": "Computing", "c1": "bn:01006731n", "c2": "bn:03253423n"}]

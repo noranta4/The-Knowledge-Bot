@@ -1,0 +1,16 @@
+1	color
+2	material
+3	place
+4	generalization
+5	size
+6	how_to_use
+7	specialization
+8	part
+9	activity
+10	shape
+11	similarity
+12	purpose
+13	sound
+14	taste
+15	smell
+16	time

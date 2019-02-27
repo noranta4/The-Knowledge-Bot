@@ -1,0 +1,84 @@
+DATASET CONSISTENCY
+
+ACTIVITY 	 What can employers do? 	 employer 	 furnish
+ACTIVITY 	 What can Any entity do? 	 entity 	 learn
+ACTIVITY 	 What can do made the provision that adverse comments or inferences can not be made by the judge or jury regarding the refusal by a defendant to answer questions before or during a trial , hearing or any other legal proceeding? 	 adverse 	 stipulation
+ACTIVITY 	 What can The Singapore national youth football team , nicknamed the Cubs , do? 	 Singapore_national_under-16_football_team 	 mention
+ACTIVITY 	 What can do find many other tasks to do? 	 person 	 encounter
+COLOR 	 What color is Ruché? 	 Ruché 	 
+COLOR 	 What is the color of Pais? 	 Pais 	 
+COLOR 	 What is the color of KELT-2A? 	 KELT-2A 	 
+COLOR 	 what color can flowers have? 	 flower 	 green
+COLOR 	 what color can papal slippers have? 	 Papal_Slippers 	 red
+GENERALIZATION 	 What is City Mall? 	 City_Mall_(Kenya) 	 pedestrian_zone
+GENERALIZATION 	 What is Blessed Sacrament Catholic Church? 	 Blessed_Sacrament_Catholic_Church_(Ottawa) 	 parish
+GENERALIZATION 	 What is the class of a poet ? 	 poet 	 person
+GENERALIZATION 	 What is Plain weave? 	 plain_weave 	 canonical
+GENERALIZATION 	 What is Nico and Dani? 	 Nico_and_Dani 	 Cinema_of_Spain
+HOW_TO_USE 	 Where is cimetidine used? 	 cimetidine 	 Smith,_Kline_&_French
+HOW_TO_USE 	 What is necessary and sufficient condition used for? 	 Necessity_and_sufficiency 	 segment
+HOW_TO_USE 	 What is immune response used for? 	 immune_reaction 	 Envenomation
+HOW_TO_USE 	 What can you use to characterize the general physical and chemical properties of the chemical elements? 	 term 	 qualify
+HOW_TO_USE 	 How can I use cashew? 	 cashew 	 ice_lolly
+MATERIAL 	 What is HESCO bastion made of? 	 Hesco_bastion 	 cargo_container
+MATERIAL 	 What constitutes Abciximab? 	 abciximab 	 Fragment_antigen-binding
+MATERIAL 	 What is security thread made of? 	 Security_thread 	 foil
+MATERIAL 	 What is Houde Bimax made of? 	 Houde_Bimax 	 wood
+MATERIAL 	 What is herb grinder made of? 	 Herb_grinder 	 metal
+PART 	 What is a part of School of Physics and Astronomy? 	 School_of_Physics_and_Astronomy,_University_of_Manchester 	 Jodrell_Bank_Centre_for_Astrophysics
+PART 	 What was a part of Dundee? 	 Dundee 	 Williamson_(surname)
+PART 	 What was a part of EC? 	 European_Union 	 Michael_Jackson
+PART 	 What is a part of Ocean Highway? 	 Ocean_Highway 	 Maryland
+PART 	 What is a part of Cleveland? 	 Cleveland 	 Genomic_Medicine_Institute
+PLACE 	 Where is Plaster City? 	 Plaster_City,_California 	 Imperial_County,_California
+PLACE 	 Where can Glenns be found ?  	 Glenns_(Columbus,_Georgia) 	 United_States_Numbered_Highways
+PLACE 	 Where is Badachro? 	 Badachro 	 Highland_(council_area)
+PLACE 	 Where is Erect located ? 	 raise 	 North_Carolina
+PLACE 	 Where is Handley Wildlife Management Area located ? 	 Handley_Wildlife_Management_Area 	 Virginia
+PURPOSE 	 What is the use of a pack of cards ? 	 deck 	 play
+PURPOSE 	 What can PAT be used for ? 	 pat 	 find
+PURPOSE 	 What is Television used for ? 	 television 	 air
+PURPOSE 	 What is a grain used for ? 	 grain 	 flour
+PURPOSE 	 What can Sledgehammers be used for ? 	 sledgehammer 	 break
+SHAPE 	 What is the shape of Doric pilasters ? 	 Doric_order 	 flat
+SHAPE 	 Is straight National League East title ? 	 National_League_East 	 consecutive
+SHAPE 	 what is the shape of the island ? 	 island 	 domed
+SHAPE 	 What is the shape of Minor changes ? 	 minor 	 aerodynamic
+SHAPE 	 What is the shape of Adelaide Gaol ? 	 Adelaide_Gaol 	 proportion
+SIMILARITY 	 What is Oneness theology similar to? 	 Jesus'_Name_doctrine 	 Sabellianism
+SIMILARITY 	 What does Cloudberry  resemble to? 	 Rubus_chamaemorus 	 raspberry
+SIMILARITY 	 what is similar to Steinway-Haus ? 	 Steinway_Hall 	 Steinway_Hall
+SIMILARITY 	 What does typewriter look like? 	 typewriter 	 printer
+SIMILARITY 	 What does Ebstorf Map look like? 	 Ebstorf_Map 	 Hereford_Mappa_Mundi
+SIZE 	 Can you give me an example of short thing ? 	 cobra 	 short
+SIZE 	 Can you give me an example of tall thing ? 	 shit 	 tall
+SIZE 	 What is the size of Seru Juggernaut ? 	 Legend_of_Legaia 	 elephantine
+SIZE 	 What is the size of Ohio Stadium ? 	 Ohio_Stadium 	 massive
+SIZE 	 What is the size of Filipino poem ? 	 Philippines 	 short
+SMELL 	 What does smell like Joy? 	 joy 	 flower
+SMELL 	 what does Jane smell like? 	 Jane_Porter_(Tarzan) 	 Cheeta
+SMELL 	 What does smell like Carrion flowers? 	 stapelia 	 carrion
+SMELL 	 What does smell like Canal Livre? 	 Canal_Livre 	 barbecue
+SMELL 	 What does smell like Success? 	 achiever 	 soap
+SOUND 	 How is the sound of Bass tuba like ? 	 tuba 	 soft
+SOUND 	 What does Avery 's girl sing? 	 girl 	 ball_club
+SOUND 	 What sound can Violin emit ? 	 fiddle 	 whistle
+SOUND 	 What does The words sing? 	 word 	 sing
+SOUND 	 What does McIntosh sing? 	 McIntosh 	 World_Series_of_Fighting_2:_Arlovski_vs._Johnson
+SPECIALIZATION 	 What is an example of a seat ? 	 place1 	 participation
+SPECIALIZATION 	 What is a Washington County, Pennsylvania? 	 Washington_County,_Pennsylvania 	 Clovis_culture
+SPECIALIZATION 	 What kind of object is seen as? 	 voice0 	 passive_voice
+SPECIALIZATION 	 What family do subordinate clause belong to? 	 dependent_clause 	 dependent_clause
+SPECIALIZATION 	 What is an instance of a sports organization ? 	 sports_organization 	 Sport_governing_body
+TASTE 	 What does taste like Psilocybe weilii? 	 Psilocybe_weilii 	 cucumber
+TASTE 	 What is Barium taste like ? 	 barium 	 bitter
+TASTE 	 What taste is similar to edible fruit? 	 edible_fruit 	 lychee
+TASTE 	 What is the taste of Turmeric like ? 	 turmeric 	 bitter
+TASTE 	 What is parsley's taste? 	 parsley 	 
+TIME 	 when is festival ? 	 festival 	 July
+TIME 	 When was OS4 released? 	 AmigaOS_4 	 December_2006
+TIME 	 when does feast day held ? 	 feast_day 	 April_10
+TIME 	 When was IRiDES released? 	 IRiDES:_Master_of_Blocks 	 December_2009
+TIME 	 When did Lester Young die? 	 Lester_Willis_Young 	 March_15
+
+Process finished with exit code 0

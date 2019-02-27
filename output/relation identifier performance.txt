@@ -1,0 +1,268 @@
+C:\Users\Asus-pc\Anaconda3\python.exe D:/Dropbox/Universita/Intelligenza_Artificiale_e_Robotica/Natural_language_processing/NLP_final/NLPFinalProject/src/performance_evaluation.py
+ACTIVITY PURPOSE Can Shoulder arthritis do be of three types of arthritis in the glenohumeral joint of the shoulder?
+ACTIVITY PURPOSE What can do blow the Shelikof Strait towards the Cook Inlet ( a Southwester ) or down the straight towards the Aleutians and the Pacific Ocean ( a Northeaster )?
+ACTIVITY PURPOSE Can A qualified producer do borrow to 80 % of the actual production loss or $ 500,000 , whichever is less , at a subsidized interest rate?
+ACTIVITY PURPOSE Can which through osmosis do pull a salt - water environment in the small intestines , which through osmosis can pull up to six litres of water per day through the intestinal cells , creating the massive amounts of diarrhea?
+ACTIVITY PURPOSE Can most Hispanics do speak difficulty associating with American Culture because of the language culture , as most Hispanics can speak Spanish?
+ACTIVITY PURPOSE What can do use special techniques such as the Sense Move , which allows them to dodge enemy attacks , and the Overblast , where Samus jumps on the enemy and fires a charged shot at point - blank range?
+ACTIVITY COLOR Can Light - colored dachshunds do sport amber , light brown , or green eyes?
+ACTIVITY SIMILARITY What can do reach various receiving waters such as streams , rivers , lakes , estuaries and oceans with resultant water chemistry changes to these water systems and their related ecosystems?
+ACTIVITY PURPOSE Can one do use the National Library of Medicine 's PubMed database?
+ACTIVITY PURPOSE Can music do create a mood for the consumer that encourages them to buy , for example playing rock and roll music in a guitar store?
+ACTIVITY COLOR Can a positive test do be on initial probabilities?
+ACTIVITY PURPOSE Can a company do limited the   economic value   of the news?
+ACTIVITY PURPOSE Can compression heating of the air ahead of the wings do cause extreme heating of the leading edge?
+ACTIVITY SPECIALIZATION What can do trigger re - entry or a feedback loop that is believed to be the cause of many lethal arrhythmias?
+ACTIVITY COLOR Can one do have a beautiful view of the neighbouring forts of Telbaila , Sarasgad , Dhangad , Sudhagad , Raigad and Savashnagad?
+COLOR GENERALIZATION Is Sun yellow-colored?
+COLOR GENERALIZATION has arare color pink?
+COLOR GENERALIZATION Is KELT-2A yellow?
+COLOR GENERALIZATION Is Care Bears multi-colored?
+COLOR GENERALIZATION Is Amurca dark?
+COLOR GENERALIZATION Is KELT-2A yellow-colored?
+COLOR GENERALIZATION Is Sun yellow?
+GENERALIZATION SPECIALIZATION What is Institut de Mathématiques de Toulouse?
+GENERALIZATION SPECIALIZATION What is a data storage ?
+GENERALIZATION SPECIALIZATION What is parliamentary republic?
+GENERALIZATION SPECIALIZATION What is State Council?
+GENERALIZATION SPECIALIZATION What is Tikka?
+GENERALIZATION SPECIALIZATION What is Idangai?
+GENERALIZATION SPECIALIZATION What is Sami District in general?
+GENERALIZATION SOUND Is a voiceless glottal transition a type of sound ?
+GENERALIZATION SPECIALIZATION What is Alvastra pile-dwelling?
+GENERALIZATION SOUND Is a voiceless velar stop a sound ?
+GENERALIZATION SPECIALIZATION What is Theodul Pass?
+GENERALIZATION SPECIALIZATION What is Bithoor?
+GENERALIZATION SPECIALIZATION What is Öland runic inscription 18?
+GENERALIZATION SPECIALIZATION What is Rubab?
+GENERALIZATION SPECIALIZATION What is Specialized Mobile Radio?
+GENERALIZATION SPECIALIZATION What is Selva Zoque?
+GENERALIZATION SPECIALIZATION What is Thames Barrier?
+GENERALIZATION SPECIALIZATION What is paper cutter?
+GENERALIZATION SPECIALIZATION What is airsickness bag?
+GENERALIZATION SPECIALIZATION What is Łomianki?
+GENERALIZATION SPECIALIZATION What is truth function?
+GENERALIZATION SPECIALIZATION What is Cambridge Public School?
+GENERALIZATION SPECIALIZATION Is Broadway Theater District a kind of tourist attraction ?
+GENERALIZATION SPECIALIZATION Is Latvia a type of parliamentary republic ?
+GENERALIZATION SPECIALIZATION What is shillelagh?
+GENERALIZATION SPECIALIZATION What is Freehold Township?
+GENERALIZATION SPECIALIZATION What is mercury-arc valve?
+GENERALIZATION SPECIALIZATION What is Soparnik?
+GENERALIZATION SPECIALIZATION What is Nemacladus rigidus ?
+GENERALIZATION SIZE Is Order of the Three Stars a order?
+GENERALIZATION SPECIALIZATION What is codification?
+GENERALIZATION SPECIALIZATION What is Burslem?
+GENERALIZATION SPECIALIZATION What is MicroID?
+GENERALIZATION SPECIALIZATION What is Weekly ?
+GENERALIZATION SPECIALIZATION What is Polytrimethylene terephthalate?
+GENERALIZATION SPECIALIZATION What is grease fitting?
+HOW_TO_USE PURPOSE What can you use to route orders , known as the Designated Order Turnaround ( DOT ) system?
+HOW_TO_USE PURPOSE What can you use to beat him severely?
+HOW_TO_USE PURPOSE Can be his friend used as as the Executive Mansion , moving to the house next door?
+HOW_TO_USE PURPOSE What can you use to set the value of a variable?
+HOW_TO_USE PURPOSE What can you use to demonstrate that primary human corneal fibroblasts will eventually invade the gel and create a matrix consisting of collagen type I and perlecan , as well as several other sulfated matrix glycoproteins?
+HOW_TO_USE COLOR Can be Translucent concrete used as as a façade material and?
+HOW_TO_USE PURPOSE What can you use to construct a post and lintel frame?
+HOW_TO_USE PURPOSE What can you use to strengthen relations between Madrid and Turin?
+HOW_TO_USE PURPOSE What can you use to describe the Swedish national men 's hockey team 's approach during the 2002 Winter Games , which was punctuated by a preliminary 5 - 2 win over the eventual gold - medal winning Canadian team?
+HOW_TO_USE PURPOSE Can be The hangar used as as a rendezvous for the refugees?
+HOW_TO_USE COLOR Can be Allegories used as as literary device?
+HOW_TO_USE PURPOSE How can one of the cease - fire meetings el - Tell advised the Israelis to stop wasting their 6-inch mortars on the Rawdah school beside the Temple Mount ( Haram al - Sharif ) be used?
+HOW_TO_USE PURPOSE Can liquid cryogens use such as the Atacama Cosmology Telescope or the Qubic experiment ( an interferometer for cosmology studies )?
+HOW_TO_USE PURPOSE What can you use to try and?
+HOW_TO_USE SPECIALIZATION Can be Moura used as as examples of pacifism in her essay   Serviço militar obrigatório para?
+HOW_TO_USE PURPOSE Can be the word used as as a singular mass entity like   information   , for instance in computing and?
+HOW_TO_USE COLOR Can be the Madison House used as as a stop on the underground railroad during the Civil War?
+HOW_TO_USE PURPOSE What can you use to fairly measure the difference between colors?
+HOW_TO_USE PURPOSE What can you use to enforce population exchanges such as the Balkan population exchanges in 1913 and the periodic exchanges between the new Republic of Turkey and Greece in 1923?
+HOW_TO_USE PURPOSE What can you use to achieve 500 Kbit / sec in 600 kHz , or 4 Mbit / sec in 6 MHz?
+HOW_TO_USE PURPOSE Can be oxygen   used as as shorthand for   oxygen atoms  ?
+MATERIAL PURPOSE What is used to make white Zinfandel?
+MATERIAL SPECIALIZATION What is jewellery constructed of?
+PART MATERIAL Is Forest of Galtres composed by Foss?
+PART MATERIAL Was fuselage composed by pontoon?
+PART PURPOSE What is a part of Commission for the Study of the Communist Dictatorship in Moldova?
+PART COLOR Do surface have color ?
+PART GENERALIZATION Was Finland a fraction of Russian Empire?
+PART MATERIAL Is Diocese of Newcastle composed by Alston Moor?
+PART ACTIVITY Do cheese belong to cow ?
+PART ACTIVITY Do education belong to student ?
+PART GENERALIZATION Is Upper Tanana language a fraction of Athabaskan?
+PART GENERALIZATION Is Cadours a fraction of Toulouse?
+PLACE TIME When did Staples Center open?
+PLACE GENERALIZATION Where was Virgil Earp?
+PLACE GENERALIZATION Where are Rowan Companies ?
+PURPOSE HOW_TO_USE What is Any finer used for ?
+PURPOSE SPECIALIZATION What is the point of using beet sugar ?
+PURPOSE GENERALIZATION Why is Merv used ?
+PURPOSE SPECIALIZATION What is the aim of using Vacuum Blower ?
+PURPOSE HOW_TO_USE What argon is used for?
+PURPOSE HOW_TO_USE What is These codes used for ?
+PURPOSE HOW_TO_USE What is Proof of payment used for ?
+SHAPE GENERALIZATION Is closed Boblo Island ?
+SHAPE GENERALIZATION Can you give me an example of straight thing ?
+SHAPE GENERALIZATION Can you give me an example of rugged thing ?
+SHAPE GENERALIZATION Can you give me an example of rugged thing ?
+SHAPE GENERALIZATION Is straight America ?
+SHAPE GENERALIZATION Can you give me an example of rugged thing ?
+SHAPE GENERALIZATION Can you give me an example of solid thing ?
+SHAPE GENERALIZATION Is closed SourceForge Enterprise Edition codebase ?
+SHAPE GENERALIZATION Is closed ITV Kids ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE SIZE How is range?
+SHAPE GENERALIZATION Is round Jakub Voracek pick ?
+SHAPE GENERALIZATION Can you give me an example of closed thing ?
+SHAPE GENERALIZATION Is rugged TR-3650 transmission ?
+SHAPE GENERALIZATION Can you give me an example of solid thing ?
+SHAPE GENERALIZATION Is solid Grade 4 rapids ?
+SHAPE GENERALIZATION Can you give me an example of twisted thing ?
+SHAPE GENERALIZATION Can you give me an example of straight thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Is closed London and South Western Railway station ?
+SHAPE GENERALIZATION Is curved August 24 east-northeastward ?
+SHAPE GENERALIZATION Is straight European Judo Championships ?
+SHAPE GENERALIZATION Is closed Oscar Elementary ?
+SHAPE GENERALIZATION Can you give me an example of deformed thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Can you give me an example of sweeping thing ?
+SHAPE GENERALIZATION Is rugged Barbados coast ?
+SHAPE GENERALIZATION Can you give me an example of curved thing ?
+SHAPE GENERALIZATION Can you give me an example of straight thing ?
+SHAPE GENERALIZATION Is closed Gorge ?
+SHAPE GENERALIZATION Is closed RAF Trmingham ?
+SHAPE GENERALIZATION Can you give me an example of rugged thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Can you give me an example of round thing ?
+SHAPE GENERALIZATION Can you give me an example of round thing ?
+SHAPE GENERALIZATION Can you give me an example of square thing ?
+SHAPE GENERALIZATION Can you give me an example of closed thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Can you give me an example of square thing ?
+SHAPE GENERALIZATION Can you give me an example of round thing ?
+SHAPE SIMILARITY How does Raspberry  look like?
+SHAPE GENERALIZATION Is round mm ?
+SHAPE GENERALIZATION Is solid Roger Glover bass lines ?
+SHAPE GENERALIZATION Is oval Gilbert ball ?
+SHAPE GENERALIZATION Can you give me an example of straight thing ?
+SHAPE GENERALIZATION Is bent Azure ?
+SHAPE GENERALIZATION Is asymmetrical Richard Upjohn Italian villa style ?
+SHAPE GENERALIZATION Can you give me an example of straight thing ?
+SHAPE GENERALIZATION Can you give me an example of flat thing ?
+SHAPE GENERALIZATION Can you give me an example of round thing ?
+SHAPE GENERALIZATION Can you give me an example of solid thing ?
+SIMILARITY ACTIVITY Do International Day of Pink share features with Pink Shirt Day?
+SIMILARITY ACTIVITY Do X-Originating-IP share features with X-Forwarded-For?
+SIMILARITY ACTIVITY Do Evdeizle share features with Netflix?
+SIMILARITY ACTIVITY Do Gnome sort share features with insertion sort?
+SIZE GENERALIZATION Can you give me an example of giant thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE COLOR Is the strip thin?
+SIZE GENERALIZATION Can you give me an example of giant thing ?
+SIZE GENERALIZATION Is vast Narva Square ?
+SIZE GENERALIZATION Can you give me an example of massive thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE GENERALIZATION Is tiny Avro Baby ?
+SIZE GENERALIZATION Can you give me an example of tiny thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE COLOR Is the body fat?
+SIZE GENERALIZATION Is stout Myanmar Beer ?
+SIZE GENERALIZATION Is vast Basin ?
+SIZE SPECIALIZATION What is the length of Its length?
+SIZE GENERALIZATION Can you give me an example of thick thing ?
+SIZE GENERALIZATION Can you give me an example of extensive thing ?
+SIZE GENERALIZATION Can you give me an example of extensive thing ?
+SIZE GENERALIZATION Can you give me an example of extensive thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE GENERALIZATION Can you give me an example of narrow thing ?
+SIZE GENERALIZATION Can you give me an example of tiny thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE SPECIALIZATION What is size of Academy ?
+SIZE GENERALIZATION Can you give me an example of vast thing ?
+SIZE GENERALIZATION Is extensive Learning Center collection ?
+SIZE GENERALIZATION Is wide AngloGold Ashanti production ?
+SIZE COLOR Is the leather thin?
+SIZE GENERALIZATION Can you give me an example of extensive thing ?
+SIZE GENERALIZATION Can you give me an example of fat thing ?
+SIZE SPECIALIZATION What is size of piler ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE COLOR Is the gold thin?
+SIZE GENERALIZATION What is the length of Most species of pipefish?
+SIZE GENERALIZATION Can you give me an example of immense thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SIZE GENERALIZATION Can you give me an example of massive thing ?
+SIZE GENERALIZATION Can you give me an example of tall thing ?
+SIZE GENERALIZATION Is grand Brompton daughter ?
+SIZE GENERALIZATION Can you give me an example of short thing ?
+SOUND ACTIVITY Do Robot - dogs for example bark?
+SOUND PART What does land conversion emit?
+SOUND ACTIVITY Do Bayreuth bark?
+SOUND ACTIVITY Do propeller noise?
+SOUND ACTIVITY Do a lookout cry?
+SOUND ACTIVITY Do output noise?
+SOUND SIMILARITY What does Pairs of particles emit?
+SOUND PART What does Plutonium-239 emit?
+SOUND ACTIVITY Do voltage noise?
+SOUND PART What does a first level sonic attack emit?
+SPECIALIZATION GENERALIZATION Is Hausen bei Brugg a specialization of a municipality ?
+SPECIALIZATION GENERALIZATION Is Ajri Demirovski a specialization of an singer ?
+SPECIALIZATION GENERALIZATION Who is an example of a graduate ?
+SPECIALIZATION GENERALIZATION Who is an example of a actor ?
+SPECIALIZATION COLOR Can a muscular hydrostat be a tongue ?
+SPECIALIZATION GENERALIZATION Is Alaçatı Dam a specialization of a dam ?
+SPECIALIZATION GENERALIZATION Is Elaeocyma arenensis a specialization of a species ?
+SPECIALIZATION GENERALIZATION Is The nonrelativistic Schrödinger equation a type of  partial differential equation called a wave equation?
+SPECIALIZATION GENERALIZATION Is Vellayur a specialization of a village ?
+SPECIALIZATION GENERALIZATION Is Anachis valledori a specialization of a species ?
+SPECIALIZATION GENERALIZATION Is Wyn Hoop a specialization of a singer ?
+SPECIALIZATION GENERALIZATION Is Thep Sathit a specialization of a district ?
+SPECIALIZATION GENERALIZATION Is Gourmya gourmyi a specialization of a species ?
+SPECIALIZATION COLOR Can a pastime be a diving ?
+SPECIALIZATION GENERALIZATION Is plutonium a specialization of a sanctuary ?
+SPECIALIZATION GENERALIZATION Is Cystiscus mosaica a specialization of a species ?
+SPECIALIZATION MATERIAL What was a specific Great Offices of State?
+SPECIALIZATION GENERALIZATION Is Svengali a specialization of an drama ?
+SPECIALIZATION GENERALIZATION Is Obesotoma pulcherrima a specialization of a species ?
+SPECIALIZATION GENERALIZATION Is Rødtvet a specialization of a station ?
+SPECIALIZATION GENERALIZATION Is Clemens-Heinrich Graf von Kageneck a specialization of a highly ?
+SPECIALIZATION COLOR Can a process be a chemical reaction ?
+TASTE SIMILARITY What taste is similar to fruit?
+TASTE GENERALIZATION is pumpkins gingerbread?
+TIME ACTIVITY Did Omar Bradley die in April 1981?
+TIME ACTIVITY Did Prince Frederik die on January 6?
+TIME HOW_TO_USE When do you typically consume human flesh?
+TIME ACTIVITY Did King Louis XI die in September 30?
+TIME GENERALIZATION Was SuperBrawl VII held on February 23?
+TIME GENERALIZATION Is it possible to consume Quality wine during dinners? 
+TIME ACTIVITY Did George Steinbrenner die in August 2010?
+TIME ACTIVITY Did George Best die in December 2005?
+TIME HOW_TO_USE At what time do you consume Sukhdi?
+TIME ACTIVITY Did Walt Disney die on January 15?
+TIME HOW_TO_USE When do you typically consume grits?
+TIME ACTIVITY Did Mark Goodson die on January 18?
+Normalized confusion matrix
+                precision    recall  f1-score   support
+
+      ACTIVITY       0.82      0.85      0.83       100
+         COLOR       0.59      0.74      0.66        27
+GENERALIZATION       0.35      0.64      0.46       100
+    HOW_TO_USE       0.92      0.79      0.85       100
+      MATERIAL       0.96      0.98      0.97       100
+          PART       0.97      0.90      0.93       100
+         PLACE       1.00      0.97      0.98       100
+       PURPOSE       0.76      0.93      0.84       100
+         SHAPE       1.00      0.48      0.65       100
+    SIMILARITY       0.96      0.96      0.96       100
+          SIZE       0.97      0.60      0.74       100
+         SMELL       1.00      1.00      1.00       100
+         SOUND       0.98      0.90      0.94       100
+SPECIALIZATION       0.66      0.78      0.71       100
+         TASTE       1.00      0.98      0.99       100
+          TIME       0.99      0.88      0.93       100
+
+   avg / total       0.88      0.84      0.85      1527
+
+
+Process finished with exit code 0

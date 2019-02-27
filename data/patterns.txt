@@ -1,0 +1,367 @@
+Is X in Y ?	Place
+Is X placed in Y ?	Place
+Is X located in Y ?	Place
+Can X be found in Y ?	Place
+Where is X ?	Place
+Where is X located ?	Place
+Where is X placed ?	Place
+Where can X be found ? 	Place
+Is X used to Y ?	Purpose
+Can I use X to Y ?	Purpose
+Can X be used to Y ?	Purpose
+What can I use X for ?	Purpose
+What can X be used for ?	Purpose
+Does X emit a Y sound ?	Sound
+Is X sound Y ?	Sound
+Can X emit a Y sound ?	Sound
+What sound does X emit ?	Sound
+How is X sound like ?	Sound
+How is the sound of X like ?	Sound
+What sound is emitted by X ?	Sound
+What sound can X emit ?	Sound
+Does X taste Y ?	Taste
+Is X flavour Y ?	Taste
+Is the flavour of X Y ?	Taste
+Is X taste Y ?	Taste
+Is the taste of X Y ?	Taste
+What is X taste like ?	Taste
+What is the taste of X like ?	Taste
+What is X flavor Like ?	Taste
+What is the flavor of X like ?	Taste
+Is X smell like Y ?	Smell
+Does X smell like Y ? 	Smell
+Is the smell of X like Y ?	Smell
+What color is the X?	colorPattern
+How is the X?	colorPattern
+How is the X colored?	colorPattern
+Which material is the X?	material
+What is the X made of?	material
+Which material X contains?	material
+Where is X located?	place
+Where is X?	place
+Where is X situated?	place
+What size are the X?	size
+How big is the X?	size
+What size is a X?	size
+To do what you use the X?	purpose
+With what purpose do you use a X?	purpose
+Why do you use a X?	purpose
+What is X?	specialization
+Is X Y?	specialization
+What is the specialization of X?	specialization
+What X could be confused with?	similarity
+What X is similar to?	similarity
+Could X be confused with Y?	similarity
+What is the dimension of X?	size
+What is the size of X?	size
+How is X?	size
+What X is used for?	purpose
+For what could be used X?	purpose
+Is X could be used for Y?	purpose
+In which year it has been created X?	time
+When X was created?	time
+Is X created in Y?	time
+What color is X?	colorPattern
+What pattern do X have?	colorPattern
+What color do X have?	colorPattern
+Can you give me examples of X?	generalization
+Do you know any type of X?	generalization
+Is there anything belonging to the class of X?	generalization
+What is X used for?	howToUse
+How can I use X?	howToUse
+Where is X used?	howToUse
+What is a X?	specialization
+What kind of object is X?	specialization
+What family do X belong to?	specialization
+Do you know what kind of activity can X do?	activity
+Which activity do X do?	activity
+What can X do?	activity
+How would you use X?	howToUse
+Which is the correct way to use X?	howToUse
+How is supposed to be used X?	howToUse
+Is Y a correct way to use X?	howToUse
+What is able to do X?	activity
+What can do X?	activity
+Is possible for X to do Y?	activity
+Which shape has X?	shape
+Which is the shape of X?	shape
+Which is the form of X?	shape
+Which is the shape of X like?	shape
+What is similar to X?	similarity
+What does X look like?	similarity
+Do X look similar to Y?	similarity
+Is it possible to confuse X with Y?	similarity
+Which sound emits X?	sound
+What is the sound of X like?	sound
+To what the sound of X is similar?	sound
+How is the sound of X?	sound
+What is X ?	generalization
+What is the class of X ?	generalization
+Is X a Y ?	generalization
+Is X an instance of Y ?	generalization
+Is X a kind of Y ?	generalization
+Is X a type of Y ?	generalization
+What is an instance of X ?	specialization
+What is an example of X ?	specialization
+What X can be ?	specialization
+Can X be a Y ?	specialization
+Can X be an instance of Y ?	specialization
+Is X part of Y ?	composition
+What is X part of ?	composition
+Does Y have X ?	composition
+Does Y have X in its parts ?	composition
+What is the use of X ?	purpose
+What is the purpose of X ?	purpose
+Why is X used ?	purpose
+Why is X used ?	purpose
+What is X used for ?	purpose
+Is X used for Y ?	purpose
+Is Y the use of X ?	purpose
+How do you use X ?	howToUse
+What do you do with X ?	howToUse
+Is Y the use of X ?	howToUse
+How big is X ?	size
+How high is X ?	size
+What elevation is X ?	size
+How tall is X ?	size
+How wide is X ?	size
+How long is X ?	size
+How long was X ?	size
+How carat is X ?	size
+What is the X woven with?	material
+What material is X made of?	material
+What material is X composed of?	material
+What material is X built of?	material
+Is Y part of X ?	part
+What was Y member?	part
+What is Y member?	part
+What does Y part do?	part
+What does X contains?	part
+What is included Y ?	part
+When was X released?	time
+When is X used?	time
+When was X born?	time
+When was nationalism died?	time
+When is X ?	time
+When was X introduced?	time
+When is X open?	time
+When was X active?	time
+When was X opened?	time
+When was X dominant?	time
+When was X held?	time
+Is Y a X ?	specialization
+Is X a type for Y ?	specialization
+What is Y ?	specialization
+What kind of plant is Y ?	specialization
+Is X Y ?	colorPattern
+What color, texture or pattern is X ?	colorPattern
+Is X of color, texture or pattern Y ?	colorPattern
+Where is X ?	place
+Is X in Y ?	place
+Where can X be found ?	place
+Can X be found in Y ?	place
+Is X a kind of Y ?	specialization
+Is X a type of Y ?	specialization
+What is X ?	specialization
+Does X have a type of relation to Y ?	specialization
+Does X have a kind of relation to Y ?	specialization
+Is the shape of X Y ?	shape
+What is the shape of X ?	shape
+What is the form of X ?	shape
+Is the form of X Y?	shape
+What is X's taste ?	taste
+what does X taste like?	taste
+Does X taste Y ?	taste
+What flavour has X?	taste
+Does X has a Y flavour?	taste
+what sound does X make ?	Sound
+what is the sound made by X ?	Sound
+what is the sound of X ?	Sound
+when does X occur ?	Time
+when is X ?	Time
+when does X held ?	Time
+is X able to Y ?	Activity
+what can X do ?	Activity
+what is X able to do ?	Activity
+is X similar to Y ?	Similarity
+are X and Y similar ?	Similarity
+what is similar to X ?	Similarity
+what is the shape of X ?	Shape
+what shape does X have ?	Shape
+What is the form of X ?	Shape
+How do you use a X ?	howToUse
+What do you use X for ?	howToUse
+What X is used for ?	howToUse
+Is X used for Y ?	howToUse
+What is the sound of X ?	sound
+How does X sound ?	sound
+How does X sound like ?	sound
+Is Y the sound of X ?	sound
+What is the taste of X ?	taste
+Is X Y ?	taste
+How does X taste ?	taste
+How does X taste like ?	taste
+What is the shape of X ?	shape
+Is Y the shape of X ?	shape
+Is X Y ?	shape
+What is the form of X ?	shape
+What X can do ?	activity
+What X is able to do ?	activity
+Is X capable Y ?	activity
+Can X Y ?	activity
+roses are red violets are blue, X is ? 	 color
+what's the color of X? 	 color
+if i were to fill a container of X what color would that be? 	 color
+if i were to see X what could i mistake it for? 	 similar to
+what can X be mistaken for? 	 similar to
+what does X look like? 	 similar to
+what's something similar to X? 	 similar to
+X? you mean what's is it like? 	 similar to
+what's a part of X? 	 part
+what's inside X? 	 part
+X is made by? 	 part
+what you can recover from X? 	 part
+without what X would not be the same? 	 part
+if you ate a X what would it taste like? 	 taste
+how does X taste like? 	 taste
+if i like the taste of X, what else could i like? 	 taste
+if you were a X would you be able to do? 	 activity
+what do X can do? 	 activity
+what have you seen X do? 	 activity
+somewhere in the universe, there is a X doing what? 	 activity
+What do X is able to do?	activity
+What is an activity X do?	activity
+Did X Y?	activity
+What shape does X have?	shape
+What is the shape of X?	shape
+Is X's shape Y?	shape
+What sound does X emit?	sound
+What does X sound like?	sound
+Does X sound like Y?	sound
+What is X similar to?	similarity
+What does X look like to?	similarity
+Is X similar to Y?	similarity
+What does X taste like?	taste
+What is the flavor of X?	taste
+Does X taste like Y?	taste
+Where is X?	place
+Is X in Y?	place
+Where is located X?	place
+What is X?	generalization
+Is X a Y?	generalization
+Is X an example of Y?	generalization
+What is X made of?	material
+Is X made of Y?	material
+What constitutes X?	material
+What does smell like X?	smell
+Does X smell like Y?	smell
+Is the smell of X similar to the smell of Y?	smell
+What does taste like X?	taste
+Does X taste like Y?	taste
+Is the taste of X similar to the taste of Y?	taste
+What is X able to?	activity
+What can X do?	activity
+Does X Y?	activity
+What is the form of X?	shape
+How is X shaped?	shape
+What shape does X have?	shape
+What is X shaped like?	shape
+Is Y the shape of X?	shape
+What can X be confused with?	similarity
+What does X look like?	similarity
+What does X resemble to?	similarity
+Is Y similar to X?	similarity
+Does Y look like X?	similarity
+What is the color of X?	colorPattern
+Is X Y?	colorPattern
+Is Y the color of X?	colorPattern
+Is Y the pattern of X?	colorPattern
+How do you use a X?	howToUse
+What do you do with X?	howToUse
+Do you Y a X?	howToUse
+Is X made of Y?	material
+What is X made of?	material
+What is X built of?	material
+What does X used for?	purpose
+Is X used for Y?	purpose
+What are the purpose of X?	purpose
+How to use X?	howToUse
+Is X used by Y?	howToUse
+What is the best way to use X?	howToUse
+Is Y a part of X?	part
+What is a part of X?	part
+What does X have?	part
+Is X like Y?	similarity
+Does X similar to Y?	similarity
+What does X similar to?	similarity
+What is X?	generalization
+Is X a Y?	generalization
+What is the category of X?	generalization
+Is X increased or decreased?	size
+Is the size of X Y?	size
+What is the size of X?	size
+Is X belonging to Y?	part
+What is X belonging to?	part
+Y contains X?	part
+What is the shape of X?	shape
+Is the shape of X Y?	shape
+Is Y a features of X?	shape
+When X is used?	time
+When X can be used?	time
+Y can be a period of X?	time
+Is X a part of Y?	part
+Was X a part of Y?	part
+Does Y include X?	part
+Did Y include X?	part
+Is X included in Y?	part
+Is X a fraction of Y?	part
+Was X a fraction of Y?	part
+Is Y composed by X?	part
+Was Y composed by X?	part
+What is a part of Y?	part
+Is X a Y?	generalization
+Was X a Y?	generalization
+Is X an example of Y?	generalization
+Was X an example of Y?	generalization
+Are X examples of Y?	generalization
+Were X examples of Y?	generalization
+It is possible to say that X is a Y?	generalization
+It is possible to say that X was a Y?	generalization
+What is X?	generalization
+Is X composed by Y?	material
+Was X composed by Y?	material
+Is X made of Y?	material
+Was X made of Y?	material
+Is X built in Y?	material
+Was X built in Y?	material
+There is Y in X?	material
+There was Y in X?	material
+Is X a type of Y?	specialization
+Was X a type of Y?	specialization
+Is X a kind of Y?	specialization
+Was X a kind of Y?	specialization
+Among the various types of Y, it is possible to cite X?	specialization
+Among the various types of Y, it was possible to cite X?	specialization
+It is possible to say that X is a type of Y?	specialization
+It is possible to say that X was a type of Y?	specialization
+What is a type of Y?	specialization
+Does X took place during Y?	time
+Was X at the epoch of Y?	time
+There was X during Y?	time
+Does X happened during Y?	time
+What happened during Y?	time
+what is X made of?	material
+what is X composed of?	material
+is X made of Y?	material
+where is X located?	place
+in which place can X be found?	place
+is X in Y?	place
+what size is X?	size
+how big is X?	size
+which is X size?	size
+to what is X similar?	similarity
+what does X reminds of?	similarity
+what does X makes you think of?	similarity
+when does X take place?	time
+which is the rigth time for X?	time
+when did X happen?	time

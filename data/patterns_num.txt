@@ -1,0 +1,334 @@
+How does X taste like ?	14
+Is the flavour of X Y ?	14
+What does X resemble to?	11
+is X able to Y ?	9
+Is Y similar to X?	11
+What is an instance of X ?	7
+Does X took place during Y?	16
+What is the dimension of X?	5
+Is X made of Y?	2
+Is X's shape Y?	10
+Is X in Y ?	3
+What is the sound of X like?	13
+Where is X located ?	3
+Is X thin?	5
+Does X Y?	9
+It is possible to say that X was a type of Y?	7
+Is X a Y?	4
+Is X used for Y ?	12
+When is X ?	16
+Does X have a type of relation to Y ?	7
+What can X do?	9
+What is X similar to?	11
+Can X be an instance of Y ?	7
+How does X taste ?	14
+Is Y a features of X?	10
+Is it possible to confuse X with Y?	11
+For what could be used X?	12
+What is X made of?	2
+When was X held?	16
+Does X happened during Y?	16
+how big is X?	5
+What does X have?	8
+How is supposed to be used X?	6
+What constitutes X?	2
+In which year it has been created X?	16
+What is the shape of X?	10
+How high is X ?	5
+Can X Y ?	9
+What is the form of X?	10
+Is Y a part of X?	8
+Was X a part of Y?	8
+What is X part of ?	8
+Is X a kind of Y ?	4
+Was X a Y?	4
+Does Y have X ?	8
+What does X sound like?	13
+what size is X?	5
+what does X makes you think of?	11
+What sound does X emit ?	13
+When was X introduced?	16
+Is X placed in Y ?	3
+Is X like Y?	11
+Was X at the epoch of Y?	16
+Is X a part of Y?	8
+Was X built in Y?	2
+Which is the shape of X?	10
+What is a X?	7
+Is X created in Y?	16
+What is included Y ?	8
+When was X born?	16
+What is X?	4
+which is the rigth time for X?	16
+what does X taste like?	14
+What sound does X emit?	13
+What is a part of X?	8
+where is X located?	3
+Can X be blue?	1
+in which place can X be found?	3
+Was X an example of Y?	4
+What is Y member?	8
+Was X a type of Y?	7
+What sound is emitted by X ?	13
+what shape does X have ?	10
+to what is X similar?	11
+Is the taste of X Y ?	14
+when did X happen?	16
+Which is the correct way to use X?	6
+What do you do with X?	6
+Can I use X to Y ?	12
+Is X a type of Y ?	7
+What shape does X have?	10
+what does X reminds of?	11
+How does X sound like ?	13
+is X made of Y?	2
+Is X an example of Y?	4
+How long was X ?	5
+What is the X made of?	2
+What is a type of Y?	7
+It is possible to say that X is a Y?	4
+Does X taste like Y?	14
+Does X have a kind of relation to Y ?	7
+Which is the shape of X like?	10
+Is X smell like Y ?	15
+When was X released?	16
+Is X Y ?	14
+Where is X used?	6
+What material is X built of?	2
+What X can do ?	9
+Where is X?	3
+How big is the X?	5
+Is X an instance of Y ?	4
+What does X contains?	8
+What does X similar to?	11
+What do X is able to do?	9
+is X similar to Y ?	11
+when does X held ?	16
+It is possible to say that X was a Y?	4
+What color is the X?	1
+What color do X have?	1
+Is X tall?	5
+What is Y ?	7
+What does X used for?	12
+what is X able to do ?	9
+Is X used to Y ?	12
+What is X's taste ?	14
+Where is located X?	3
+What is the flavor of X?	14
+Why is X used ?	12
+How wide is X ?	5
+What is X built of?	2
+How is X sound like ?	13
+Among the various types of Y, it is possible to cite X?	7
+What is X taste like ?	14
+Is X similar to Y?	11
+What is an example of X ?	7
+Where is X ?	3
+How is the X colored?	1
+Is the smell of X like Y ?	15
+when does X occur ?	16
+when does X take place?	16
+Where is the X?	3
+Which shape has X?	10
+How long is X ?	5
+What flavour has X?	14
+With what purpose do you use a X?	12
+what is X composed of?	2
+Is X used for Y ?	6
+There was X during Y?	16
+What X can be ?	7
+Was Y composed by X?	8
+What kind of object is X?	7
+Can X be found in Y ?	3
+Is X giant?	5
+What sound can X emit ?	13
+Among the various types of Y, it was possible to cite X?	7
+What pattern do X have?	1
+How do you use a X?	6
+Is the size of X Y?	5
+Where is X placed ?	3
+When was X dominant?	16
+How carat is X ?	5
+Can X be yellow?	1
+When X was created?	16
+what sound does X make ?	13
+What is the specialization of X?	7
+Where are X ?	3
+Is Y the use of X ?	6
+Do you Y a X?	6
+How is X?	5
+Do X look similar to Y?	11
+are X and Y similar ?	11
+What can X be used for ?	12
+Were X examples of Y?	4
+Is X red?	1
+Does X taste Y ?	14
+What X is used for ?	6
+Does X smell like Y ? 	15
+Is X short?	5
+What is the use of X ?	12
+Does Y include X?	8
+What color is X?	1
+What does X look like?	11
+How can I use X?	6
+What does X look like to?	11
+What is X used for?	6
+When is X used?	16
+What can X be confused with?	11
+Where is X located?	3
+When is X open?	16
+How is the sound of X like ?	13
+Is X Y?	7
+What is X ?	7
+is X in Y?	3
+Is X a kind of Y?	7
+What size are the X?	5
+Is X black?	1
+Was X made of Y?	2
+What is X shaped like?	10
+What is the form of X ?	10
+Y can be a period of X?	16
+what is similar to X ?	11
+Is Y part of X ?	8
+Is X a kind of Y ?	7
+what is the sound of X ?	13
+What X is similar to?	11
+What is similar to X?	11
+when is X ?	16
+What is X flavor Like ?	14
+Where can X be found ?	3
+What is the taste of X ?	14
+What is the shape of X ?	10
+What elevation is X ?	5
+There is Y in X?	2
+Did X Y?	9
+Which material is the X?	2
+Is Y composed by X?	8
+To do what you use the X?	12
+Is Y the shape of X ?	10
+Is Y the sound of X ?	13
+What are the purpose of X?	12
+Can X be brown?	1
+Is the shape of X Y ?	10
+What does Y part do?	8
+To what the sound of X is similar?	13
+Is possible for X to do Y?	9
+What X could be confused with?	11
+Does Y have X in its parts ?	8
+Is X included in Y?	8
+Is X built in Y?	2
+Is the shape of X Y?	10
+How is the sound of X?	13
+Which is the form of X?	10
+What is X able to?	9
+What is the taste of X like ?	14
+Is the taste of X similar to the taste of Y?	14
+Which material X contains?	2
+What size is a X?	5
+What is the size of X?	5
+Is X a type of Y?	7
+Is X a type of Y ?	4
+What kind of plant is Y ?	7
+Is Y the color of X?	1
+Could X be confused with Y?	11
+Can X emit a Y sound ?	13
+How is X shaped?	10
+Is X green?	1
+Can you give me examples of X?	4
+Is X used by Y?	6
+What X is used for?	12
+What is the class of X ?	4
+Did Y include X?	8
+Does X smell like Y?	15
+What is the category of X?	4
+Is the smell of X similar to the smell of Y?	15
+Is there anything belonging to the class of X?	4
+Is X in Y?	3
+What is the flavor of X like ?	14
+There was Y in X?	2
+How would you use X?	6
+Is X flavour Y ?	14
+Does Y look like X?	11
+How tall is X ?	5
+Is X a fraction of Y?	8
+Can X be a Y ?	7
+Is X Y ?	10
+How do you use a X ?	6
+Is X increased or decreased?	5
+What was Y member?	8
+How does X sound ?	13
+Does X sound like Y?	13
+What is a part of Y?	8
+What can I use X for ?	12
+Is X of color, texture or pattern Y ?	1
+How big is X ?	5
+What can do X?	9
+What is X ?	4
+What material is X made of?	2
+Is X used for Y?	12
+What does X taste like?	14
+Does X emit a Y sound ?	13
+What is the color of X?	1
+Is X could be used for Y?	12
+Is the form of X Y?	10
+What is X used for ?	12
+What is X belonging to?	8
+Is X a Y ?	4
+What family do X belong to?	7
+Is X a type for Y ?	7
+Is X capable Y ?	9
+Is Y the pattern of X?	1
+what is the shape of X ?	10
+Can X be white?	1
+Where is X situated?	3
+What is able to do X?	9
+When was X opened?	16
+What does smell like X?	15
+Is X belonging to Y?	8
+Can X be used to Y ?	12
+Was X composed by Y?	2
+Was X a kind of Y?	7
+Do you know any type of X?	4
+Are X examples of Y?	4
+What is the purpose of X ?	12
+Does X has a Y flavour?	14
+What is the X woven with?	2
+Is X sound Y ?	13
+what can X do ?	9
+It is possible to say that X is a type of Y?	7
+What color, texture or pattern is X ?	1
+Which activity do X do?	9
+Is Y a correct way to use X?	6
+What is X?	7
+When was X active?	16
+Is Y the shape of X?	10
+what is the sound made by X ?	13
+What is an activity X do?	9
+Why do you use a X?	12
+What does taste like X?	14
+Is X long?	5
+What does X sing?	13
+What do you do with X ?	6
+Is Y a X ?	7
+Where can X be found ? 	3
+Is X composed by Y?	2
+How to use X?	6
+Is X located in Y ?	3
+What is the best way to use X?	6
+Which sound emits X?	13
+What material is X composed of?	2
+What do you use X for ?	6
+Is X part of Y ?	8
+which is X size?	5
+What happened during Y?	16
+What is the sound of X ?	13
+How do you use X ?	6
+Do you know what kind of activity can X do?	9
+Is Y the use of X ?	12
+Does X similar to Y?	11
+Y contains X?	8
+Was X a fraction of Y?	8
+When was nationalism died?	16
+what is X made of?	2
+What X is able to do ?	9
+Is X taste Y ?	14
