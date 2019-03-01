@@ -3,9 +3,21 @@
  
  Final project of the Natural Language Processing course, prof. Roberto Navigli.
  
- University project � 2017 - Natural Language Processing - MSc in Computer Science, I year
+ University project • 2017 - Natural Language Processing - MSc in Computer Science, I year
  
 The source code is is accompanied by a report (`Anotnio_Norelli_final_report.pdf`), I highly reccomend you read it to understand the methods.
+
+### Easy step-by-step guide
+
+Go in src and run `telegram_chatbot.py`. When “setup done” is
+printed the bot is ready to interact on Telegram.
+
+The bot name on telegram is [RobotSPD13_bot](https://web.telegram.org/#/im?p=%40RobotSPD13_bot). Press start to begin the interaction.
+
+*If you don’t have installed the spaCy library, the bot can still work: set the variable spacy_dis=False in
+entity_finder and in enrich_database then comment the line self.spacy_nlp_model =
+spacy.load('en')in the initialization of the Answerer class in Answerer.*
+
 
 ## Introduction
 The goal of the project is to build a Telegram chatbot able to answer to questions about general culture
@@ -48,7 +60,7 @@ has proved to be poor, less than 80% of entries are well-defined, some makes no 
 incorrect relations and entities tags. The wide range of knowledge considered permits the inclusion of
 very specific entries, that are the major part of the KBS, on the other hand this wide inclusion makes the
 described entity-relation couples very sparse in the universe of all possible couples, so during a regular
-user experience most of the time the chatbot answer is �Sorry, I have not an answer for this question�. A
+user experience most of the time the chatbot answer is “Sorry, I have not an answer for this question”. A
 dataset restricted to certain domains and with a better coverage seems more suitable.
 
 See the report for a detailed discussion of the Chatbot and the performance evaluation.
