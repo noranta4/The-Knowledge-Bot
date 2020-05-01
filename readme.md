@@ -5,7 +5,7 @@
  
  University project • 2017 - Natural Language Processing - MSc in Computer Science, I year
  
-The source code is is accompanied by a report (`Anotnio_Norelli_final_report.pdf`), I highly reccomend you read it to understand the methods.
+The source code is is accompanied by a report (`Anotnio_Norelli_final_report.pdf`), I highly reccomend to go over it to understand the methods.
 
 ### Easy step-by-step guide
 
